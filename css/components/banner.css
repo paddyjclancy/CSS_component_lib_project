@@ -3,6 +3,7 @@
 	background-image: url(https://images.unsplash.com/photo-1518693800412-ad92111a1d46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
 	height: 80vh;
 	background-size: cover;
+	transition: ease 0.8s;
 }
 
 .banner-stones{
@@ -10,6 +11,12 @@
 	background-image: url(https://images.unsplash.com/photo-1570936100858-56eb3a5f5ae1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=721&q=80);
 	height: 80vh;
 	background-size: cover;
+	transition: ease 0.8s;
+}
+
+.banner-lennon:hover, .banner-stones:hover {
+	opacity: 1;
+	box-shadow: 2px 6px rgba(30, 30, 30, 0.7);
 }
 
 .banner-flex-up {
