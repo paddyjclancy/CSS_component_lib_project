@@ -1,4 +1,21 @@
 /* Imports */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Ubuntu:wght@300;400;700&display=swap');
+
 @import url('components/button.css');
 @import url('components/avatar.css');
 @import url('components/banner.css');
+
+.container {
+	width: 800px;
+	margin: 20px auto;
+}
+
+.text-center {
+	text-align: center;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	color: #222831;
+}

@@ -1,0 +1,28 @@
+
+.button-red {
+	background-color: red;
+	color: white;
+	padding: 10px 25px;
+	border-radius: 30px;
+	transition: ease 0.8s;
+	opacity: 0.8;
+	text-decoration: none;
+	margin-left: 0px;
+}
+
+.button-blue {
+	background-color: #2087E5;
+	color: white;
+	padding: 8px 40px;
+	border-radius: 3px;
+	font-weight: bolder;
+	transition: ease 0.8s;
+	opacity: 0.85;
+	text-decoration: none;
+	margin-left: 0px;
+}
+
+.button-red:hover, .button-blue:hover {
+	opacity: 1;
+	box-shadow: 1px 3px rgba(30, 30, 30, 0.7);
+}
