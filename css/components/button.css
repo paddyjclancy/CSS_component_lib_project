@@ -37,13 +37,12 @@
 .button-purple {
 	background-color: #C13584;
 	color: white;
-	padding: 20px 5px;
+	padding: 10px;
 	border-radius: 15px;
 	font-weight: bolder;
 	transition: ease 0.8s;
 	opacity: 0.75;
 	text-decoration: none;
-	margin-left: 0px;
 }
 
 .button-red:hover, .button-blue:hover, .button-orange:hover, .button-purple:hover {
