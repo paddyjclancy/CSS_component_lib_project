@@ -1,0 +1,11 @@
+
+.avatar {
+	border-radius: 20%;
+	border: solid 5px #163216;
+	height: 120px;
+}
+
+.avatar-rnd {
+	border-radius: 50%;
+	height: 120px
+}
